@@ -1,5 +1,6 @@
 # Accumulators
 
-[RSA](https://github.com/accumulators-agg/rsa): The RSA baseline used in our micro-benchmarks.
+Please take a look at the following repositories:
 
-We are in the process of releasing the rest of our implementation. Please stay tuned!
+- [RSA](https://github.com/accumulators-agg/rsa): RSA accumulator implementation.
+- [Bilinear pairing (BP)](https://github.com/accumulators-agg/bp): Nguyen's accumulator implementation with our proposed schemes.
